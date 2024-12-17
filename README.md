@@ -1,7 +1,3 @@
-Here's a professional and clean `README.md` file in **English** for your GitHub project:
-
----
-
 # Cybersecurity Threat Detection and Analysis Project
 
 This project focuses on analyzing cybersecurity events and network traffic data collected between **2018 and 2024**. Using a rich dataset of real-world corporate environments, the analysis provides valuable insights into threat detection, system patch status, and the frequency and severity of attacks. Various visualizations and analyses were implemented to highlight key patterns and trends in cybersecurity incidents.
