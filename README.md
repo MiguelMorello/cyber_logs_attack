@@ -14,7 +14,6 @@ This project focuses on analyzing cybersecurity events and network traffic data 
 6. [Key Insights](#key-insights)  
 7. [Results and Conclusions](#results-and-conclusions)  
 8. [Technologies Used](#technologies-used)  
-9. [How to Run](#how-to-run)  
 
 ---
 
